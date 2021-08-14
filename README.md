@@ -3,7 +3,7 @@
 _( Ignite | NodeJS | Capítulo II | Desafio 02 )_
 
 
-Desafio 02 do capítulo II da trilha NodeJS do Ignite, da rocketseat.
+Desafio 02 do capítulo II da trilha NodeJS do bootcamp Ignite, da Rocketseat.
 
 ## O desafio: Documentação de Aplicação
 
